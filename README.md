@@ -1,4 +1,4 @@
-# Extracting Names and Phone Numbers from Excel
+# Excel Contact Data Parser with Country Code Formatting
 ## Project Description
 An Excel file contained personal information for each individual spread across multiple rows. The task involved extracting only the names and phone numbers from this unstructured format. Phone numbers were standardized to include the correct country code based on each customer’s location. The data was converted using a Python script, which can be reused to update the dataset efficiently whenever new records are added.
 
